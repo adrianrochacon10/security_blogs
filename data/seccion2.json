@@ -1,0 +1,57 @@
+[
+  {
+    "title": "Ley General de Protección de Datos Personales de México",
+    "description": "Regula el tratamiento de los datos personales por parte de las entidades públicas en México.",
+    "imageUrl": "https://cdn.pixabay.com/photo/2016/11/29/06/15/paper-1861046_960_720.jpg"
+  },
+  {
+    "title": "Ley de Propiedad Industrial",
+    "description": "Protege los derechos relacionados con la propiedad industrial, incluyendo marcas, patentes y diseños industriales.",
+    "imageUrl": "https://cdn.pixabay.com/photo/2015/05/15/14/47/patent-768488_960_720.jpg"
+  },
+  {
+    "title": "Ley Federal de Derechos de Autor",
+    "description": "Establece los derechos exclusivos de los autores sobre sus obras literarias y artísticas en México.",
+    "imageUrl": "https://cdn.pixabay.com/photo/2016/11/30/09/34/handwriting-1873009_960_720.jpg"
+  },
+  {
+    "title": "Ley Federal de Datos Personales en Posesión de Particulares",
+    "description": "Regula el tratamiento de datos personales por parte de personas físicas y morales en México.",
+    "imageUrl": "https://cdn.pixabay.com/photo/2016/10/26/22/54/envelope-1770931_960_720.jpg"
+  },
+  {
+    "title": "Código Penal Federal",
+    "description": "Contiene las sanciones penales aplicables a delitos relacionados con la violación de la privacidad de la información.",
+    "imageUrl": "https://cdn.pixabay.com/photo/2018/09/25/22/42/the-law-3705887_960_720.jpg"
+  },
+  {
+    "title": "Ley General de Transparencia y Acceso a la Información",
+    "description": "Promueve la transparencia y el acceso a la información pública, garantizando el derecho a conocer información de las entidades públicas.",
+    "imageUrl": "https://cdn.pixabay.com/photo/2020/06/21/20/08/puzzle-5322926_960_720.jpg"
+  },
+  {
+    "title": "Criptografía Simétrica",
+    "description": "Método de cifrado que utiliza la misma clave para cifrar y descifrar la información.",
+    "imageUrl": "https://cdn.pixabay.com/photo/2022/05/04/18/19/cryptocurrency-7175652_960_720.jpg"
+  },
+  {
+    "title": "Criptografía Asimétrica",
+    "description": "Utiliza un par de claves, una pública y una privada, para cifrar y descifrar datos.",
+    "imageUrl": "https://cdn.pixabay.com/photo/2020/06/03/16/20/cryptocurrency-5258358_960_720.jpg"
+  },
+  {
+    "title": "Cifrado por Bloques",
+    "description": "Método de cifrado que procesa la información en bloques de datos, cifrando cada bloque con una clave.",
+    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/07/22/32/cryptography-3594160_960_720.jpg"
+  },
+  {
+    "title": "Cifrado por Flujo",
+    "description": "Cifra los datos bit a bit o byte a byte, ideal para transmitir información en tiempo real.",
+    "imageUrl": "https://cdn.pixabay.com/photo/2021/06/29/10/18/abstract-6374743_960_720.jpg"
+  },
+  {
+    "title": "Criptoanálisis",
+    "description": "El arte de descifrar la información sin conocer la clave utilizada en su cifrado.",
+    "imageUrl": "https://cdn.pixabay.com/photo/2016/04/29/08/22/password-1362866_960_720.jpg"
+  }
+]

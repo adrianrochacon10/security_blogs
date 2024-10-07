@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Accesibilidad",
+    "description": "Garantizar que la información esté disponible para los usuarios autorizados cuando sea necesaria.",
+    "imageUrl": "https://images.unsplash.com/photo-1555032526-431b0d7a2f3d"
+  },
+  {
+    "title": "Confidencialidad",
+    "description": "Asegurar que la información solo sea accesible a personas autorizadas y se mantenga en secreto.",
+    "imageUrl": "https://images.unsplash.com/photo-1605902711622-cfb43c44367e"
+  },
+  {
+    "title": "Disponibilidad",
+    "description": "Garantizar que los sistemas y datos estén accesibles para los usuarios en el momento en que se requieran.",
+    "imageUrl": "https://images.unsplash.com/photo-1517430816045-df4b7de11d24"
+  },
+  {
+    "title": "Autenticación",
+    "description": "Proceso de verificar la identidad de un usuario antes de permitirle acceder a los sistemas o información.",
+    "imageUrl": "https://images.unsplash.com/photo-1559039838-018f97fb2f52"
+  },
+  {
+    "title": "Integridad",
+    "description": "Asegurar que los datos no sean alterados o modificados sin autorización durante su almacenamiento o transmisión.",
+    "imageUrl": "https://images.unsplash.com/photo-1591696331119-d641d0c213bc"
+  },
+  {
+    "title": "Control de Acceso",
+    "description": "Garantizar que solo los usuarios autorizados tengan acceso a los recursos y a la información.",
+    "imageUrl": "https://images.unsplash.com/photo-1626586076073-d2fb89d02f5a"
+  }
+]
